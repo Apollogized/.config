@@ -2,7 +2,7 @@ QtProject.conf
 Thunar/
 dconf/
 discord/
-gtk*/
+gtk-3.0/
 htop/
 obs-studio/
 pulse/
